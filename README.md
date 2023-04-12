@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subham-poddar
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN stack Development
+- 👀 I’m a Backend Developer
+- 🌱 My current tech stack is Java and Spring Boot related technologies.
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me - insta id -->> subham_poddar01
 
